@@ -1,0 +1,21 @@
+Initial Position,Final Position,Average Speed (m/s),Average Acceleration (m/s^2),Class
+1,4,0.6667,-0.025,1. move slow towards left
+4,1,0.9167,0.0,2. move slow towards right
+1,4,1.5,0.0,3. move fast towards left
+4,1,1.25,0.0,4. move fast towards right
+1,4,1.0,-0.125,5. move fast towards left
+4,1,0.6667,0.025,6. move slow towards right
+1,4,1.5,0.0,7. move fast towards left
+4,1,1.25,-0.125,8. move fast towards right
+1,4,1.0,0.125,9. move slow towards left
+4,1,0.625,0.0312,10. move slow towards right
+1,4,0.6667,0.0,11. move slow towards left
+4,1,1.0,-0.125,12. move fast towards right
+1,4,1.5,0.0,13. move fast towards left
+4,1,0.6667,0.0,14. move slow towards right
+1,4,0.4583,-0.0089,15. move slow towards left
+4,1,0.6667,0.025,16. move slow towards right
+1,4,1.5,0.0,17. move fast towards left
+4,1,1.25,-0.125,18. move fast towards right
+1,4,0.6667,0.0,19. move slow towards left
+4,1,1.5,0.0,20. move fast towards right
